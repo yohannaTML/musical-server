@@ -1,5 +1,5 @@
-{
-  "musicals":[
+
+  [
     {
       "id": 1,
       "image_url":"http://broadwaymusicalhome.com/images/poster/sweeney.jpg",
@@ -347,4 +347,3 @@
     }
 
   ]
-}
