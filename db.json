@@ -1,5 +1,4 @@
-{
-  "musicals": [
+[
     {
       "id": 1,
       "image_url": "http://broadwaymusicalhome.com/images/poster/sweeney.jpg",
@@ -345,5 +344,4 @@
       "director": "Thomas Kail",
       "music_preview": "https://itunes.apple.com/fr/album/hamilton-original-broadway-cast-recording/1025210938?app=music&ign-mpt=uo%3D4"
     }
-  ]
-}
+]
